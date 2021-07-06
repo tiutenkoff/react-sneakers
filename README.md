@@ -31,7 +31,7 @@
 
 2. Yarn:
 
-   [Установить yarn (ссылка)](hhttps://classic.yarnpkg.com/en/docs/install/#windows-stable)
+   [Установить yarn (ссылка)](https://classic.yarnpkg.com/en/docs/install/#windows-stable)
 
 3. Node.js:
 

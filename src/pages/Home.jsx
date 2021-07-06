@@ -25,10 +25,10 @@ function Home({searchValue, setSearchValue, onChangeSearchInput, onAddToCart, on
               <img
                 onClick={() => setSearchValue('')}
                 className="clear cu-p"
-                src="/img/btn-remove.svg"
+                src="img/btn-remove.svg"
                 alt="Clear"
               />}
-            <img src="/img/search.svg" alt="Search"/>
+            <img src="img/search.svg" alt="Search"/>
             <input onChange={onChangeSearchInput} value={searchValue} type="text" placeholder="Поиск..." />
           </div>
         </div>
